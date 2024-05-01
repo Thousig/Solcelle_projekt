@@ -1,2 +1,2 @@
 # Solcelle_projekt
-Mat1B projekt om solceller
+DTU Mat1B projekt om solceller
